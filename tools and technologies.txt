@@ -1,0 +1,21 @@
+1. Programming Languages
+- Core Knowledge: Java
+- Web Development: HTML, CSS, JavaScript
+- Database Querying: SQL
+
+2. Development Tools
+- Version Control: Git, GitHub
+- Code Editors: Visual Studio Code, 
+- Integrated Development Environments (IDEs):
+  - IntelliJ IDEA (for Java)
+  - Eclipse (general-purpose)
+
+ 3. Frameworks and Libraries
+- Backend: Spring Boot, Spring,JDBC,Microservices
+- Testing: JUnit, Selenium, Postman (API Testing)
+
+ 4. Databases
+- Relational Databases: MySQL
+
+
+
